@@ -27,6 +27,9 @@ The code is organized into source files, test cases, and numerical results.
 - **`Kangaroo_data.txt`**  
   Observational data for the kangaroo population example.
 
+- **`Girsanov approach matlab`**  
+  Matlab code for the comparison with the Girsanov approach.
+
 ---
 
 ## 🧪 Tests
