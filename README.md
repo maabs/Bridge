@@ -45,9 +45,10 @@ For reproducibility, additional test cases and results are shown in `test_result
 
 ---
 
-## ⚙️ Usage
+⸻
 
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+💻 Requirements
+	•	Python 3.8+
+	•	NumPy, SciPy, Matplotlib
+	•	(Optional) Jupyter Notebook for exploring results
+	•	Access to HPC cluster (e.g., Ibex) recommended for large-scale runs
