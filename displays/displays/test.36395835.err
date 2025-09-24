@@ -1,0 +1,110 @@
+/var/spool/slurm/job36395835/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+/home/alvarem/bridge/bridge.py:709: RuntimeWarning: invalid value encountered in scalar divide
+  return sigma*np.sqrt((np.exp(2*theta*(T-t))-1)/(2*theta))
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/home/alvarem/bridge/Par_loc.py", line 628, in Prl_C_Grad_chain
+    bdg.C_Grad_Cond_PF_bridge_back_samp(\
+  File "/home/alvarem/bridge/bridge.py", line 5700, in C_Grad_Cond_PF_bridge_back_samp
+    =C_Cond_PF_bridge_back_samp(x_cond_0,x_cond_1,\
+  File "/home/alvarem/bridge/bridge.py", line 4832, in C_Cond_PF_bridge_back_samp
+    x_pr_0[i],x_pr_1[i]=sample_funct(x_new_0,x_new_1,N,d,sample_pars)
+  File "/home/alvarem/bridge/bridge.py", line 2235, in rej_max_coup_ou
+    w=np.random.uniform(0,px)
+  File "mtrand.pyx", line 1153, in numpy.random.mtrand.RandomState.uniform
+OverflowError: Range exceeds valid bounds
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 845, in <module>
+    pool_outputs = pool.map(Prl_C_Grad_chain,inputs)
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+OverflowError: Range exceeds valid bounds

@@ -1,0 +1,265 @@
+/var/spool/slurm/job36027647/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: overflow encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:486: RuntimeWarning: overflow encountered in exp
+  g_den_par_0*=np.exp(gamma*Grad_mcmc_0[2]*g_den_par_0/n**(0.5+alpha))
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: overflow encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/PF_functions_def.py:1835: RuntimeWarning: invalid value encountered in subtract
+  wsum=np.sum(np.exp(lw-m),axis=ax,keepdims=True)
+/home/alvarem/bridge/PF_functions_def.py:1836: RuntimeWarning: invalid value encountered in subtract
+  w=np.exp(lw-m)/wsum
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: overflow encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:628: RuntimeWarning: divide by zero encountered in scalar divide
+  return (1/2)*(x-y)**2/sigma_y_s**2-1/(2*sigma_y_s)
+/home/alvarem/bridge/bridge.py:628: RuntimeWarning: overflow encountered in scalar divide
+  return (1/2)*(x-y)**2/sigma_y_s**2-1/(2*sigma_y_s)
+/home/alvarem/bridge/bridge.py:628: RuntimeWarning: invalid value encountered in scalar subtract
+  return (1/2)*(x-y)**2/sigma_y_s**2-1/(2*sigma_y_s)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:628: RuntimeWarning: divide by zero encountered in scalar divide
+  return (1/2)*(x-y)**2/sigma_y_s**2-1/(2*sigma_y_s)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: invalid value encountered in scalar multiply
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/Par_loc.py:487: RuntimeWarning: divide by zero encountered in scalar divide
+  g_den_par_0=(1/g_den_par_0-g_den_par_0**2*4*gamma*Grad_mcmc_0[2]/(n)**(0.5+alpha))**(-1)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in divide
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: divide by zero encountered in log
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+/home/alvarem/bridge/bridge.py:1023: RuntimeWarning: invalid value encountered in subtract
+  return -0.5 * (diffs**2/sd**2)-0.5*np.log(2*np.pi*sd**2)
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/home/alvarem/bridge/Par_loc.py", line 464, in Prl_C_SGD_ou_bridge
+    bdg.C_Grad_Cond_PF_bridge_back_samp(cond_path_0,cond_path_1,seeds_cond_0,seeds_cond_1,t0,x0,T,b,\
+  File "/home/alvarem/bridge/bridge.py", line 5302, in C_Grad_Cond_PF_bridge_back_samp
+    =C_Cond_PF_bridge_back_samp(x_cond_0,x_cond_1,\
+  File "/home/alvarem/bridge/bridge.py", line 4688, in C_Cond_PF_bridge_back_samp
+    [part_resamp_0,part_resamp_1,x_new_0, x_new_1]=max_coup_multi(weights_0,weights_1,N,x_last_0,x_last_1,1)
+  File "/home/alvarem/bridge/bridge.py", line 1961, in max_coup_multi
+    bino=np.random.binomial(N,r)
+  File "mtrand.pyx", line 3469, in numpy.random.mtrand.RandomState.binomial
+  File "_common.pyx", line 430, in numpy.random._common.check_constraint
+ValueError: p < 0, p > 1 or p is NaN
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 648, in <module>
+    pool = multiprocessing.Pool(processes=40)
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+ValueError: p < 0, p > 1 or p is NaN

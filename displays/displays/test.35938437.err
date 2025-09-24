@@ -1,0 +1,36 @@
+/var/spool/slurm/job35938437/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+/home/alvarem/bridge/Par_loc.py:486: RuntimeWarning: overflow encountered in exp
+  g_den_par_0*=np.exp(2*gamma*Grad_mcmc_0[2]*g_den_par_0/n**(0.5+alpha))
+/home/alvarem/bridge/Par_loc.py:488: RuntimeWarning: overflow encountered in exp
+  g_den_par_1*=np.exp(2*gamma*Grad_mcmc_1[2]*g_den_par_1/n**(0.5+alpha))
+/home/alvarem/bridge/PF_functions_def.py:1835: RuntimeWarning: invalid value encountered in subtract
+  wsum=np.sum(np.exp(lw-m),axis=ax,keepdims=True)
+/home/alvarem/bridge/PF_functions_def.py:1836: RuntimeWarning: invalid value encountered in subtract
+  w=np.exp(lw-m)/wsum
+/home/alvarem/bridge/Par_loc.py:488: RuntimeWarning: overflow encountered in exp
+  g_den_par_1*=np.exp(2*gamma*Grad_mcmc_1[2]*g_den_par_1/n**(0.5+alpha))
+/home/alvarem/bridge/PF_functions_def.py:1835: RuntimeWarning: invalid value encountered in subtract
+  wsum=np.sum(np.exp(lw-m),axis=ax,keepdims=True)
+/home/alvarem/bridge/PF_functions_def.py:1836: RuntimeWarning: invalid value encountered in subtract
+  w=np.exp(lw-m)/wsum
+/home/alvarem/bridge/bridge.py:628: RuntimeWarning: overflow encountered in scalar power
+  return (1/2)*(x-y)**2/sigma_y_s**2-1/(2*sigma_y_s)
+/home/alvarem/bridge/Par_loc.py:488: RuntimeWarning: overflow encountered in exp
+  g_den_par_1*=np.exp(2*gamma*Grad_mcmc_1[2]*g_den_par_1/n**(0.5+alpha))
+/home/alvarem/bridge/PF_functions_def.py:1835: RuntimeWarning: invalid value encountered in subtract
+  wsum=np.sum(np.exp(lw-m),axis=ax,keepdims=True)
+/home/alvarem/bridge/PF_functions_def.py:1836: RuntimeWarning: invalid value encountered in subtract
+  w=np.exp(lw-m)/wsum
+/home/alvarem/bridge/bridge.py:4607: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_new_0,tf,x_pr_0[i],atdp_0,crossed=crossed))\
+/home/alvarem/bridge/bridge.py:4608: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_new_0,tf,x_pr_0[i], ind_prop_trans_par_0,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4606: RuntimeWarning: invalid value encountered in subtract
+  new_log_weights_0=int_G_0+log_g_den(obs[i],x_pr_0[i],g_den_par_0,crossed=crossed)\
+/home/alvarem/bridge/bridge.py:4607: RuntimeWarning: divide by zero encountered in log
+  
+/home/alvarem/bridge/bridge.py:4608: RuntimeWarning: divide by zero encountered in log
+  for i in range(int(T/d)):
+/home/alvarem/bridge/bridge.py:4606: RuntimeWarning: invalid value encountered in subtract
+  x_new_1=x0 # rank 1 with dimensions (dim)
+slurmstepd: error: *** JOB 35938437 ON cn509-13-r CANCELLED AT 2024-11-04T18:30:37 DUE TO TIME LIMIT ***

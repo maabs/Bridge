@@ -1,0 +1,9 @@
+/var/spool/slurm/job36870265/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 5, in <module>
+    import bridge as bdg
+  File "/home/alvarem/bridge/bridge.py", line 6, in <module>
+    import PF_functions_def as pff
+  File "/home/alvarem/bridge/PF_functions_def.py", line 16, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'

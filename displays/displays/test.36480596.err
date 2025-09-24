@@ -1,0 +1,241 @@
+/var/spool/slurm/job36480596/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\
+/home/alvarem/bridge/bridge.py:4749: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_pr[t-1],tf,x_final,atdp,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4753: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_pr[t-1],tf,x_final,sample_pars,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4752: RuntimeWarning: invalid value encountered in subtract
+  degen_log_weights_complete=degen_log_weights\

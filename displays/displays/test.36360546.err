@@ -1,0 +1,5 @@
+/var/spool/slurm/job36360546/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 706, in <module>
+    ch_paths[k,sample]=[pool_outputs[sample+samples*k][0],pool_outputs[sample+samples*k][1]]
+IndexError: index 7 is out of bounds for axis 0 with size 7

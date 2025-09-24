@@ -1,0 +1,23 @@
+/var/spool/slurm/job36360918/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/home/alvarem/bridge/Par_loc.py", line 346, in Prl_C_SGD_ou_bridge
+    bdg.update_pars([A_0,fi_0,g_den_par_0],[A_1,fi_1,g_den_par_1],fd_rate,levels=2)
+AttributeError: module 'bridge' has no attribute 'update_pars'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 697, in <module>
+    pool_outputs = pool.map(Prl_C_SGD_ou_bridge,inputs)
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+AttributeError: module 'bridge' has no attribute 'update_pars'

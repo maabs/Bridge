@@ -1,0 +1,83 @@
+/var/spool/slurm/job35969691/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+/home/alvarem/miniconda3/envs/loc/lib/python3.9/site-packages/scipy/stats/_distn_infrastructure.py:2093: RuntimeWarning: divide by zero encountered in divide
+  x = np.asarray((x - loc)/scale, dtype=dtyp)
+/home/alvarem/bridge/bridge.py:338: RuntimeWarning: divide by zero encountered in divide
+  grad_x_log_p=-(x*Phi-x_pr)/(sd(t,x,T,x_pr,sd_pars)**2)
+/home/alvarem/bridge/bridge.py:1544: RuntimeWarning: invalid value encountered in multiply
+  drift_1=b(x_prev_1,A_1)+(a_1*r_n_1)
+/home/alvarem/bridge/bridge.py:1571: RuntimeWarning: invalid value encountered in multiply
+  int_G_1=int_G_1+dt_1*((b(x_prev_1,A_1)-b_til(t_1,x_prev_1,A_til_1))*r_n_1\
+/home/alvarem/bridge/bridge.py:477: RuntimeWarning: invalid value encountered in divide
+  hess_x_log_p=Phi**2*(np.zeros(x.shape)-1)/(sd(t,x,T,x_pr,sd_pars)**2)
+/home/alvarem/bridge/bridge.py:4635: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_new_1,tf,x_pr_1[i],atdp_1,crossed=crossed))\
+/home/alvarem/bridge/bridge.py:4636: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_new_1,tf,x_pr_1[i],ind_prop_trans_par_1,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4634: RuntimeWarning: invalid value encountered in subtract
+  new_log_weights_1=int_G_1+log_g_den(obs[i],x_pr_1[i],g_den_par_1,crossed=crossed)\
+/home/alvarem/bridge/bridge.py:4635: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_new_1,tf,x_pr_1[i],atdp_1,crossed=crossed))\
+/home/alvarem/bridge/bridge.py:4636: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_new_1,tf,x_pr_1[i],ind_prop_trans_par_1,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4634: RuntimeWarning: invalid value encountered in subtract
+  new_log_weights_1=int_G_1+log_g_den(obs[i],x_pr_1[i],g_den_par_1,crossed=crossed)\
+/home/alvarem/bridge/bridge.py:4635: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_new_1,tf,x_pr_1[i],atdp_1,crossed=crossed))\
+/home/alvarem/bridge/bridge.py:4636: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_new_1,tf,x_pr_1[i],ind_prop_trans_par_1,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4634: RuntimeWarning: invalid value encountered in subtract
+  new_log_weights_1=int_G_1+log_g_den(obs[i],x_pr_1[i],g_den_par_1,crossed=crossed)\
+/home/alvarem/bridge/bridge.py:4630: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_new_0,tf,x_pr_0[i],atdp_0,crossed=crossed))\
+/home/alvarem/bridge/bridge.py:4631: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_new_0,tf,x_pr_0[i], ind_prop_trans_par_0,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4629: RuntimeWarning: invalid value encountered in subtract
+  new_log_weights_0=int_G_0+log_g_den(obs[i],x_pr_0[i],g_den_par_0,crossed=crossed)\
+/home/alvarem/bridge/bridge.py:4630: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_new_0,tf,x_pr_0[i],atdp_0,crossed=crossed))\
+/home/alvarem/bridge/bridge.py:4631: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_new_0,tf,x_pr_0[i], ind_prop_trans_par_0,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4629: RuntimeWarning: invalid value encountered in subtract
+  new_log_weights_0=int_G_0+log_g_den(obs[i],x_pr_0[i],g_den_par_0,crossed=crossed)\
+/home/alvarem/bridge/bridge.py:4635: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_new_1,tf,x_pr_1[i],atdp_1,crossed=crossed))\
+/home/alvarem/bridge/bridge.py:4636: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_new_1,tf,x_pr_1[i],ind_prop_trans_par_1,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4634: RuntimeWarning: invalid value encountered in subtract
+  new_log_weights_1=int_G_1+log_g_den(obs[i],x_pr_1[i],g_den_par_1,crossed=crossed)\
+/home/alvarem/bridge/bridge.py:4630: RuntimeWarning: divide by zero encountered in log
+  +np.log(aux_trans_den(ti,x_new_0,tf,x_pr_0[i],atdp_0,crossed=crossed))\
+/home/alvarem/bridge/bridge.py:4631: RuntimeWarning: divide by zero encountered in log
+  -np.log(prop_trans_den(ti,x_new_0,tf,x_pr_0[i], ind_prop_trans_par_0,crossed=crossed))
+/home/alvarem/bridge/bridge.py:4629: RuntimeWarning: invalid value encountered in subtract
+  new_log_weights_0=int_G_0+log_g_den(obs[i],x_pr_0[i],g_den_par_0,crossed=crossed)\
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/home/alvarem/bridge/Par_loc.py", line 464, in Prl_C_SGD_ou_bridge
+    bdg.C_Grad_Cond_PF_bridge_back_samp(cond_path_0,cond_path_1,seeds_cond_0,seeds_cond_1,t0,x0,T,b,\
+  File "/home/alvarem/bridge/bridge.py", line 5271, in C_Grad_Cond_PF_bridge_back_samp
+    =C_Cond_PF_bridge_back_samp(x_cond_0,x_cond_1,\
+  File "/home/alvarem/bridge/bridge.py", line 4657, in C_Cond_PF_bridge_back_samp
+    [part_resamp_0,part_resamp_1,x_new_0, x_new_1]=max_coup_multi(weights_0,weights_1,N,x_last_0,x_last_1,1)
+  File "/home/alvarem/bridge/bridge.py", line 1961, in max_coup_multi
+    bino=np.random.binomial(N,r)
+  File "mtrand.pyx", line 3469, in numpy.random.mtrand.RandomState.binomial
+  File "_common.pyx", line 430, in numpy.random._common.check_constraint
+ValueError: p < 0, p > 1 or p is NaN
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 613, in <module>
+    theta_in_fd=theta_in+fd
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+ValueError: p < 0, p > 1 or p is NaN

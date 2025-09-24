@@ -1,0 +1,33 @@
+/var/spool/slurm/job35888977/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/home/alvarem/bridge/Par_loc.py", line 464, in Prl_C_SGD_ou_bridge
+    bdg.C_Grad_Cond_PF_bridge_back_samp(cond_path_0,cond_path_1,seeds_cond_0,seeds_cond_1,t0,x0,T,b,\
+  File "/home/alvarem/bridge/bridge.py", line 5174, in C_Grad_Cond_PF_bridge_back_samp
+    =C_Cond_PF_bridge_back_samp(x_cond_0,x_cond_1,\
+  File "/home/alvarem/bridge/bridge.py", line 4515, in C_Cond_PF_bridge_back_samp
+    x_pr_0[i],x_pr_1[i]=sample_funct(x_new_0,x_new_1,N,d,sample_pars)
+  File "/home/alvarem/bridge/bridge.py", line 2219, in rej_max_coup_ou
+    x_pr0=np.random.normal(x0*np.exp(theta0*d),ou_sd(0,x0,d,x0,[theta0,sigma0]))
+  File "mtrand.pyx", line 1540, in numpy.random.mtrand.RandomState.normal
+  File "_common.pyx", line 600, in numpy.random._common.cont
+  File "_common.pyx", line 505, in numpy.random._common.cont_broadcast_2
+  File "_common.pyx", line 384, in numpy.random._common.check_array_constraint
+ValueError: scale < 0
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 609, in <module>
+    pool_outputs = pool.map(Prl_C_SGD_ou_bridge,inputs)
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+ValueError: scale < 0

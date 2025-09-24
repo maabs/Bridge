@@ -1,0 +1,5 @@
+/var/spool/slurm/job36975249/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 1273, in <module>
+    seed=4253+ 5*40*5+samples*arg_cm
+NameError: name 'arg_cm' is not defined

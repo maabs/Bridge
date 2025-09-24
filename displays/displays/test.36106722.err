@@ -1,0 +1,33 @@
+/var/spool/slurm/job36106722/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "_mt19937.pyx", line 178, in numpy.random._mt19937.MT19937._legacy_seeding
+TypeError: 'float' object cannot be interpreted as an integer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/home/alvarem/bridge/Par_loc.py", line 540, in Prl_Unbiased
+    np.random.seed(seed+1)
+  File "mtrand.pyx", line 4789, in numpy.random.mtrand.seed
+  File "mtrand.pyx", line 250, in numpy.random.mtrand.RandomState.seed
+  File "_mt19937.pyx", line 166, in numpy.random._mt19937.MT19937._legacy_seeding
+  File "_mt19937.pyx", line 186, in numpy.random._mt19937.MT19937._legacy_seeding
+TypeError: Cannot cast scalar from dtype('float64') to dtype('int64') according to the rule 'safe'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 741, in <module>
+    pool_outputs = pool.map(Prl_Unbiased,inputs)
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+TypeError: Cannot cast scalar from dtype('float64') to dtype('int64') according to the rule 'safe'

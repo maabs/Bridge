@@ -1,0 +1,23 @@
+/var/spool/slurm/job36360849/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/home/alvarem/bridge/Par_loc.py", line 300, in Prl_C_SGD_ou_bridge
+    [t0,x0,T,b,A_in,A_fd_in,Sig,fi_in,fi_fd_in,b_til,A_til_in,Sig_til,fi_til_in,\
+ValueError: not enough values to unpack (expected 42, got 41)
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 697, in <module>
+    pool_outputs = pool.map(Prl_C_SGD_ou_bridge,inputs)
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+ValueError: not enough values to unpack (expected 42, got 41)

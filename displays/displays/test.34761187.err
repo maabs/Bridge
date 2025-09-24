@@ -1,0 +1,42 @@
+/var/spool/slurm/job34761187/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+/home/alvarem/bridge/bridge.py:1357: RuntimeWarning: overflow encountered in square
+  -(r_n**2))))
+/home/alvarem/bridge/bridge.py:1356: RuntimeWarning: invalid value encountered in multiply
+  -(1/2)*((a-a_tilde)*(-H(t,x_prev,T,x_p,H_pars)\
+/home/alvarem/bridge/bridge.py:113: RuntimeWarning: overflow encountered in multiply
+  mult=x*A
+/home/alvarem/bridge/bridge.py:1328: RuntimeWarning: overflow encountered in multiply
+  drift=b(x_prev,A)+(a*r_n)
+/home/alvarem/bridge/bridge.py:123: RuntimeWarning: overflow encountered in multiply
+  mult=x*A
+/home/alvarem/bridge/bridge.py:1355: RuntimeWarning: invalid value encountered in subtract
+  int_G=int_G+dt*((b(x_prev,A)-b_til(t,x_prev,A_til))*r_n\
+/home/alvarem/bridge/bridge.py:1336: RuntimeWarning: invalid value encountered in add
+  x=x_prev+drift*dt+Sig_reali*np.sqrt(dt)*np.random.default_rng(seed=seed+i).normal(0,1,N)
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/home/alvarem/bridge/Par_loc.py", line 190, in Prl_SGD_bridge
+    bdg.Grad_Cond_PF_bridge_back_samp(cond_log_weights_test,cond_int_G_test,cond_path_test,seeds_cond_test,t0,x0,T,b,\
+  File "/home/alvarem/bridge/bridge.py", line 3861, in Grad_Cond_PF_bridge_back_samp
+    =Cond_PF_bridge_back_samp(lw_cond,int_Gs_cond,x_cond,seeds_cond,t0,x0,T,b,A,Sig,fi,b_til,A_til,Sig_til,fi_til,\
+  File "/home/alvarem/bridge/bridge.py", line 3441, in Cond_PF_bridge_back_samp
+    j=np.random.choice(N,p=weights)
+  File "mtrand.pyx", line 954, in numpy.random.mtrand.RandomState.choice
+ValueError: probabilities contain NaN
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 298, in <module>
+    pool_outputs = pool.map(Prl_SGD_bridge, inputs)
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+ValueError: probabilities contain NaN

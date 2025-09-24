@@ -1,0 +1,27 @@
+/var/spool/slurm/job36107839/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+  File "/home/alvarem/bridge/Par_loc.py", line 579, in Prl_Unbiased
+    parameters=bdg.SGD_bridge(t0,x0,T,b,A_in,A_fd_in,Sig,fi_in,fi_fd_in,b_til,A_til_in,Sig_til,fi_til_in,\
+  File "/home/alvarem/bridge/bridge.py", line 6031, in SGD_bridge
+    [log_weights,int_Gs,x_pr]=PF_bridge(t0,x0,T,b,A,Sig,fi,b_til,A_til,Sig_til,fi_til,\
+  File "/home/alvarem/bridge/bridge.py", line 3825, in PF_bridge
+    log_weights[i]=log_weights[i]+int_G+log_g_den(obs[i],x_pr[i],g_den_par,crossed=crossed)\
+IndexError: index 1 is out of bounds for axis 0 with size 1
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/alvarem/bridge/Par_loc.py", line 739, in <module>
+    pool_outputs = pool.map(Prl_Unbiased,inputs)
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/alvarem/miniconda3/envs/loc/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+IndexError: index 1 is out of bounds for axis 0 with size 1

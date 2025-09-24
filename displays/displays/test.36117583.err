@@ -1,0 +1,2 @@
+/var/spool/slurm/job36117583/slurm_script: line 17: /ibex/user/alvarem/miniconda3/bin/activate: No such file or directory
+slurmstepd: error: *** JOB 36117583 ON cn514-11-l CANCELLED AT 2024-11-15T13:33:18 DUE TO TIME LIMIT ***
